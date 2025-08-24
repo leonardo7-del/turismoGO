@@ -9,5 +9,3 @@ Filtros por distrito y categoría para encontrar viajes fácilmente.
 Resaltado automático de promociones y diferenciación visual para las ofertas.
 Diseño responsive: funciona en computadoras, tablets y móviles.
 Tematización peruana: colores, estilos y destinos representativos del país.
-
-![paginaweb](Captura de pantalla 2025-08-23 194334.png)
